@@ -1,0 +1,13 @@
+.vscode
+*.obj
+*.exe
+*.pdb
+*.exp
+*.ilk
+*.lib
+
+*.dot
+day[1-9]
+day[1-2][0-9]
+day[1-9].txt
+day[1-2][0-9].txt
