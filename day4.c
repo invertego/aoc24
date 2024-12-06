@@ -24,7 +24,7 @@ int main()
     FILE* file = fopen("day4.txt", "r");
     int sum = 0, sum2 = 0;
 
-    while (1 == fscanf(file, "%s", &A(n++, 0))) ;
+    while (1 == fscanf(file, "%s", &A(n, 0))) n++;
 
     for (int f = 0; f < 8; f++)
     for (int i = 0; i < n; i++)
